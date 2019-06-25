@@ -2,20 +2,4 @@
 
 An Emergency Response Project.
 
-
-#Usage
-
-This project consists of a web version and a mobile app for simplicity of usage
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+This project aims at providing alternative emergency response strategies by use of; mobile apps , ussd and over the nternet messages. The project aims at reducing response time to various emergency occurences across the country, providing a easier communication mode with the respective respondents.
